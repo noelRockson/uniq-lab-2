@@ -8,7 +8,13 @@ This lab involves the creation of virtual cards containing information and their
 ### App Walk-though
 
 <img
-     src="https://drive.google.com/file/d/1IN3IdySh4-grHOl1WUgqN9hfJLTrJxPB/view?usp=drivesdk" width=200><br>
+     src="https://giphy.com/gifs/O6CBoVuZ5Q8iJ2w3Vi" width=200><br>
+
+<img
+     src="https://giphy.com/gifs/XWuPRm1I7B0vj4YBSF" width=200><br>
+
+<img
+     src="https://giphy.com/gifs/voQTDGGhGlcN5nqefP" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
