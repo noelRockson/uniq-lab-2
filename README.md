@@ -5,8 +5,10 @@ up# uniq-lab-2
 
 ### App Description
 This lab involves the creation of virtual cards containing information and their display on the screen of the smartphone or tablet.  The process involves designing the user interface, managing data, and setting up features like creating, editing, and deleting maps.  Data security and safeguarding user information are also important considerations in the development of this application
+
 ### App Walk-though
 Default values 
+
 <img
      src="https://user-images.githubusercontent.com/128053435/231026882-a2ca1385-aaf8-44e9-80dc-9a8dd8dd3b0d.gif" width=200><br>
 
