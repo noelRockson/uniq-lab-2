@@ -11,10 +11,9 @@ This lab involves the creation of virtual cards containing information and their
      src="https://ephmedia.giphy.com/539d27af-45bc-4a79-9d63-99bd5d1aa805.gif" width=200><br>
 
 <img
-     src="https://ephmedia.giphy.com/32f3a2be-5b25-49eb-94fc-8dc021e423ba.gif" width=200><br>
+     src="https://photos.app.goo.gl/vXncU3DWJQGGxm4t6" width=200><br>
 
-<img
-     src="https://ephmedia.giphy.com/9aef6d34-a08a-4dd1-9ca9-a9dbc74ffef1.gif" width=200><br>
+
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
