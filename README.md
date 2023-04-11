@@ -1,4 +1,4 @@
-# uniq-lab-2
+up# uniq-lab-2
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 2
@@ -11,7 +11,7 @@ This lab involves the creation of virtual cards containing information and their
      src="https://ephmedia.giphy.com/539d27af-45bc-4a79-9d63-99bd5d1aa805.gif" width=200><br>
 
 <img
- src="https://drive.google.com/file/d/1wUwPO3jzNCjeqDGnlAI5qfQVEgUiA41b/view?usp=drivesdk" width=200><br>
+ src="https://user-images.githubusercontent.com/128053435/231025776-f3d499f4-b4f3-4ec3-8f89-0553da89a45c.gif" width=200><br>
 
 
 
