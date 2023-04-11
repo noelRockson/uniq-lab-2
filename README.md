@@ -11,7 +11,7 @@ This lab involves the creation of virtual cards containing information and their
      src="https://ephmedia.giphy.com/539d27af-45bc-4a79-9d63-99bd5d1aa805.gif" width=200><br>
 
 <img
-     src="https://photos.app.goo.gl/vXncU3DWJQGGxm4t6" width=200><br>
+ src="https://drive.google.com/file/d/1wUwPO3jzNCjeqDGnlAI5qfQVEgUiA41b/view?usp=drivesdk" width=200><br>
 
 
 
