@@ -10,7 +10,7 @@ This lab involves the creation of virtual cards containing information and their
 <img
      src="https://ephmedia.giphy.com/539d27af-45bc-4a79-9d63-99bd5d1aa805.gif" width=200><br>
 
-### App Description
+### App Walk-though
 passing multiple EditView to the Main activity and disable the button if the editView are empty.
 
 <img
